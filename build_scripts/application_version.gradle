@@ -1,0 +1,4 @@
+jar {
+    baseName = 'product-admin'
+    version = '0.0.1'
+}

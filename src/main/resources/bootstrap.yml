@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: product
+  cloud:
+    config:
+      uri: http://localhost:8888/
+
+producttype:
+  service:
+    uri: http://localhost:8089/
+inventory:
+  service:
+    uri: http://localhost:8085/
